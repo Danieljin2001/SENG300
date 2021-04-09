@@ -5,4 +5,4 @@ Description: Introduction to the development and evolution of software. Covers k
 
 Language: Java
 
-Extra: UML Diagrams
+Extra: UML Diagrams, implemented the software and test for the projects.
